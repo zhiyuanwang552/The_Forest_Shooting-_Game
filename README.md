@@ -1,3 +1,4 @@
+**This is a python file utilizing the pygame module, the game will run under any python 3.10 version**
 1. when finding the player stuck, unable to move to the next right to go to the next level, go left for a bit and then go right
 
 2. every level you beat, the enemy gets stronger, you also gain 20 unit of health for every level you beat
