@@ -4,3 +4,5 @@
 2. every level you beat, the enemy gets stronger, you also gain 20 unit of health for every level you beat
 
 3. This is an adventure game, if you die, you need to restart the program as like you have re-spawn into the world
+
+4. enjoy the game!
